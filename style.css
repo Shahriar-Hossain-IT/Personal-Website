@@ -33,6 +33,12 @@
 
 #half_width p {
     color: #3E3E3E;
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+color: #3E3E3E;
 }
 
 #half_width h2 {
